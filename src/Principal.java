@@ -18,7 +18,7 @@ public class Principal {
 				
 		int totalReceitas = quotas + recBaile + recBar;	
 			
-			System.out.println("Angariou : " + totalReceitas + "€ ");
+			System.out.println("Angariou  : " + totalReceitas + "€ ");
 			
 			
 			
