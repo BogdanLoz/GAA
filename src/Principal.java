@@ -1,5 +1,4 @@
-import Dia281016.AdivinhaNumero;
-import Dia281016.BalancoGAA;
+import dia021116.JogoBlackjack;
 
 
 public class Principal {
@@ -11,7 +10,7 @@ public class Principal {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		new AdivinhaNumero(); 
+		new JogoBlackjack(); 
 	
 	
 	}
